@@ -35,6 +35,8 @@ If the *file* utility and magic number files with MIME type support are installe
 - tcllib
 - GNU coreutils
 
+If you use CentOS 7, rpm packages are stored in "el7_libs". Run *yum localinstall* before *xfs_undelete*
+
 Recommended:
 
 - file (having magic number files with MIME type support)
